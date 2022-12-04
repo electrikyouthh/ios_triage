@@ -1,0 +1,31 @@
+BasebandCertId: 3095201109
+BasebandKeyHashInformation: 
+ AKeyStatus: 2
+ SKeyHash: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+ SKeyStatus: 0
+BasebandSerialNumber: KAirGg==
+BasebandVersion: 2.70.01
+BoardId: 28
+BuildVersion: 19H12
+CPUArchitecture: arm64e
+ChipID: 33027
+DeviceClass: iPad
+DeviceColor: 1
+DeviceName: iPad
+DieID: 1497437029203998
+HardwareModel: J523AP
+HasSiDP: true
+PartitionType: GUID_partition_scheme
+ProductName: iPhone OS
+ProductType: iPad13,10
+ProductVersion: 15.7
+ProductionSOC: true
+ProtocolVersion: 2
+SupportedDeviceFamilies[2]: 
+ 0: 1
+ 1: 2
+TelephonyCapability: true
+UniqueChipID: 1497437029203998
+UniqueDeviceID: 00008103-000551E93A33001E
+UntrustedHostBUID: 498E4C37-AC81-48DE-BE85-893016811B3D
+WiFiAddress: 50:ed:3c:db:8d:8c

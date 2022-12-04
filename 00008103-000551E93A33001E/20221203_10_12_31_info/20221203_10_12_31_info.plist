@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BasebandCertId</key>
+	<integer>3095201109</integer>
+	<key>BasebandKeyHashInformation</key>
+	<dict>
+		<key>AKeyStatus</key>
+		<integer>2</integer>
+		<key>SKeyHash</key>
+		<data>
+		AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+		</data>
+		<key>SKeyStatus</key>
+		<integer>0</integer>
+	</dict>
+	<key>BasebandSerialNumber</key>
+	<data>
+	KAirGg==
+	</data>
+	<key>BasebandVersion</key>
+	<string>2.70.01</string>
+	<key>BoardId</key>
+	<integer>28</integer>
+	<key>BuildVersion</key>
+	<string>19H12</string>
+	<key>CPUArchitecture</key>
+	<string>arm64e</string>
+	<key>ChipID</key>
+	<integer>33027</integer>
+	<key>DeviceClass</key>
+	<string>iPad</string>
+	<key>DeviceColor</key>
+	<string>1</string>
+	<key>DeviceName</key>
+	<string>iPad</string>
+	<key>DieID</key>
+	<integer>1497437029203998</integer>
+	<key>HardwareModel</key>
+	<string>J523AP</string>
+	<key>HasSiDP</key>
+	<true/>
+	<key>PartitionType</key>
+	<string>GUID_partition_scheme</string>
+	<key>ProductName</key>
+	<string>iPhone OS</string>
+	<key>ProductType</key>
+	<string>iPad13,10</string>
+	<key>ProductVersion</key>
+	<string>15.7</string>
+	<key>ProductionSOC</key>
+	<true/>
+	<key>ProtocolVersion</key>
+	<string>2</string>
+	<key>SupportedDeviceFamilies</key>
+	<array>
+		<integer>1</integer>
+		<integer>2</integer>
+	</array>
+	<key>TelephonyCapability</key>
+	<true/>
+	<key>UniqueChipID</key>
+	<integer>1497437029203998</integer>
+	<key>UniqueDeviceID</key>
+	<string>00008103-000551E93A33001E</string>
+	<key>UntrustedHostBUID</key>
+	<string>498E4C37-AC81-48DE-BE85-893016811B3D</string>
+	<key>WiFiAddress</key>
+	<string>50:ed:3c:db:8d:8c</string>
+</dict>
+</plist>
