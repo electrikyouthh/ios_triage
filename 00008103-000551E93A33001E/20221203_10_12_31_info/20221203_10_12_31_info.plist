@@ -9,16 +9,12 @@
 		<key>AKeyStatus</key>
 		<integer>2</integer>
 		<key>SKeyHash</key>
-		<data>
-		AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=
-		</data>
+		<data>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</data>
 		<key>SKeyStatus</key>
 		<integer>0</integer>
 	</dict>
 	<key>BasebandSerialNumber</key>
-	<data>
-	KAirGg==
-	</data>
+	<data>KAirGg==</data>
 	<key>BasebandVersion</key>
 	<string>2.70.01</string>
 	<key>BoardId</key>
